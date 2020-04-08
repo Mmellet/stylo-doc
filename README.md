@@ -1,7 +1,5 @@
-# Documentation de Stylo
+# Source de la documentation déménagée sur le dépôt Stylo
 
-Ce dépôt rassemble les pages de la documentation de l'éditeur de texte sémantique _Stylo_ : [https://stylo-doc.ecrituresnumeriques.ca](https://stylo-doc.ecrituresnumeriques.ca)
+La source de la documentation de Stylo est désormais sur le dépôt principal de Stylo : [https://github.com/EcrituresNumeriques/stylo/tree/master/docs](https://github.com/EcrituresNumeriques/stylo/tree/master/docs)
 
-Pour accéder à _Stylo_ : [https://stylo.ecrituresnumeriques.ca](https://stylo.ecrituresnumeriques.ca)
-
-Les pages de cette documentation sont générées avec [MDwiki](https://dynalon.github.io/mdwiki/).
+**Ce dépôt n'est donc plus pris en compte pour la mise à jour du site web de la documentation [https://stylo-doc.ecrituresnumeriques.ca](https://stylo-doc.ecrituresnumeriques.ca).**
